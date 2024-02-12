@@ -183,7 +183,7 @@ $conn->close();
 </marquee>
 <div class="navbar-bottom">
     <marquee>
-    <h1>Call us on</h1>
+    <h1>Public Relation Officer at your service : +91 7825212233</h1>
 </marquee>
 </div>
 
